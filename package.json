@@ -1,0 +1,18 @@
+{
+  "name": "two",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesse Pence",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^0.0.0-experimental-0fb5b61ac-20230814",
+    "react-server-dom-webpack": "^0.0.0-experimental-0fb5b61ac-20230814"
+  }
+}
